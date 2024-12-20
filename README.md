@@ -1,27 +1,16 @@
-# AmbitionProj
+# Ambition SPA
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 16.2.2.
+**Ambition SPA** — это одностраничное приложение (SPA), предназначенное для демонстрации услуг компании. В приложении есть форма для связи с компанией. Проект написан с использованием **Angular**.
 
-## Development server
+## Демо
 
-Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Вы можете ознакомиться с демо-версией проекта по следующей ссылке:  
+[Ambition SPA Demo](https://rina2316.github.io/ambition-project/)
 
-## Code scaffolding
+## Запуск сервера для разработки
 
-Run `ng generate component component-name` to generate a new component. You can also use `ng generate directive|pipe|service|class|guard|interface|enum|module`.
+Для запуска сервера разработки выполните команду `ng serve`. Перейдите по адресу `http://localhost:4200/`. Приложение будет автоматически перезагружаться при изменении исходных файлов.
 
-## Build
+## Сборка проекта
 
-Run `ng build` to build the project. The build artifacts will be stored in the `dist/` directory.
-
-## Running unit tests
-
-Run `ng test` to execute the unit tests via [Karma](https://karma-runner.github.io).
-
-## Running end-to-end tests
-
-Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To use this command, you need to first add a package that implements end-to-end testing capabilities.
-
-## Further help
-
-To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+Для сборки проекта выполните команду `ng build`. Скомпилированные файлы будут размещены в директории `dist/`.
